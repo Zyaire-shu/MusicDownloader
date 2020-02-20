@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="064bd2bf-d3cc-44a8-8f95-946cadae5bb9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XsKg9QksY2kmNZs7AR0nAGgKX7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../MusicDownloader.iml" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editing.templates" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/lib" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="MusiDownload" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="musicdownload" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="top.zyaire.teach.Main" />
+      <module name="MusiDownload" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CompoundRunConfigurationType">
+      <toRun name="music" type="Java Scratch" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="064bd2bf-d3cc-44a8-8f95-946cadae5bb9" name="Default Changelist" comment="" />
+      <created>1581829470312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581829470312</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1040" y="149" key="#Auto_Import" timestamp="1581897428900">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="1040" y="149" key="#Auto_Import/43.0.1877.1080@43.0.1877.1080" timestamp="1581897428900" />
+    <state x="783" y="132" key="#Inspections" timestamp="1582034766535">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="783" y="132" key="#Inspections/43.0.1877.1080@43.0.1877.1080" timestamp="1582034766535" />
+    <state x="565" y="132" key="#Project_Structure" timestamp="1581829496665">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="565" y="132" key="#Project_Structure/43.0.1877.1080@43.0.1877.1080" timestamp="1581829496665" />
+    <state x="419" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582074318702">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="419" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.0.1877.1080@43.0.1877.1080" timestamp="1582074318702" />
+    <state x="674" y="66" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1582074317369">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="674" y="66" key="#com.intellij.ide.util.TreeClassChooserDialog/43.0.1877.1080@43.0.1877.1080" timestamp="1582074317369" />
+    <state x="921" y="219" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1582033227836">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="921" y="219" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/43.0.1877.1080@43.0.1877.1080" timestamp="1582033227836" />
+    <state x="657" y="126" key="#music" timestamp="1581829804323">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="657" y="126" key="#music/43.0.1877.1080@43.0.1877.1080" timestamp="1581829804323" />
+    <state x="909" y="267" key="FileChooserDialogImpl" timestamp="1582075625796">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="909" y="267" key="FileChooserDialogImpl/43.0.1877.1080@43.0.1877.1080" timestamp="1582075625796" />
+    <state width="1384" height="285" key="GridCell.Tab.0.bottom" timestamp="1582035215303">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state width="1384" height="285" key="GridCell.Tab.0.bottom/43.0.1877.1080@43.0.1877.1080" timestamp="1582035215303" />
+    <state width="1384" height="285" key="GridCell.Tab.0.center" timestamp="1582035215302">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state width="1384" height="285" key="GridCell.Tab.0.center/43.0.1877.1080@43.0.1877.1080" timestamp="1582035215302" />
+    <state width="1384" height="285" key="GridCell.Tab.0.left" timestamp="1582035215301">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state width="1384" height="285" key="GridCell.Tab.0.left/43.0.1877.1080@43.0.1877.1080" timestamp="1582035215301" />
+    <state width="1384" height="285" key="GridCell.Tab.0.right" timestamp="1582035215302">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state width="1384" height="285" key="GridCell.Tab.0.right/43.0.1877.1080@43.0.1877.1080" timestamp="1582035215302" />
+    <state x="729" y="59" key="SettingsEditor" timestamp="1581938891076">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="729" y="59" key="SettingsEditor/43.0.1877.1080@43.0.1877.1080" timestamp="1581938891076" />
+    <state x="734" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1581895640686">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="734" y="315" key="com.intellij.ide.util.TipDialog/43.0.1877.1080@43.0.1877.1080" timestamp="1581895640686" />
+    <state x="1037" y="24" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582024080883">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="1037" y="24" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/43.0.1877.1080@43.0.1877.1080" timestamp="1582024080883" />
+    <state x="358" y="33" key="new project wizard" timestamp="1582035209655">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="358" y="33" key="new project wizard/43.0.1877.1080@43.0.1877.1080" timestamp="1582035209655" />
+    <state x="1035" y="85" key="refactoring.ChangeSignatureDialog" timestamp="1581943461352">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="1035" y="85" key="refactoring.ChangeSignatureDialog/43.0.1877.1080@43.0.1877.1080" timestamp="1581943461352" />
+    <state x="633" y="226" key="run.anything.popup" timestamp="1581942978363">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="633" y="226" key="run.anything.popup/43.0.1877.1080@43.0.1877.1080" timestamp="1581942978363" />
+    <state x="1111" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1581911015626">
+      <screen x="43" y="0" width="1877" height="1080" />
+    </state>
+    <state x="1111" y="220" width="672" height="678" key="search.everywhere.popup/43.0.1877.1080@43.0.1877.1080" timestamp="1581911015626" />
+  </component>
+</project>
